@@ -1,0 +1,9 @@
+gradio 
+openai 
+gtts
+groq 
+openai-whisper
+pydub
+numpy
+requests
+whisper
