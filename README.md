@@ -9,7 +9,6 @@ requirements.txt            contains python packages
 screenshots                 architecture screenshots
 
 ![Project Logo](screenshots/1_architecture.png)
-<img src="screenshots/1_architecture.png" alt="Project Logo" width="500" height="131">
 
 ## PYTHON TIPS
 IDE                         pycharm / vscode <br/>
