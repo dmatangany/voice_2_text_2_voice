@@ -5,9 +5,9 @@ Originaly posted by Aquib Ali (https://github.com/aquibali01)
 I have refactored the Aquib repo for my tutorial to illustrate the steps to build a voice assistant
 
 ## Files
-Lab01.py                    main python file
-requirements.txt            contains python packages
-screenshots                 architecture screenshots
+Lab01.py                    main python file<br/>
+requirements.txt            contains python packages<br/>
+screenshots                 architecture screenshots<br/>
 
 ![Project Logo](screenshots/1_architecture.png)
 
