@@ -5,24 +5,24 @@ Originaly posted by Aquib Ali (https://github.com/aquibali01)
 I have refactored the Aquib repo for my tutorial to illustrate the steps to build a voice assistant
 
 ## Files
-Lab01.py                    main python file<br/>
-requirements.txt            contains python packages<br/>
-screenshots                 architecture screenshots<br/>
+Lab01.py                    - main python file<br/>
+requirements.txt            - contains python packages<br/>
+screenshots                 - architecture screenshots<br/>
 
 ![Project Logo](screenshots/1_architecture.png)
 
 ## PYTHON TIPS
-IDE                         pycharm / vscode <br/>
-Install file                pip install -r requirements.txt<br/>
-Install file                python -m pip install -r requirements.txt<br/>
-Install                     pip install xyz-package<br/>
-Install                     python -m pip install xyz-package <br/>
-Install version             pip install xyzzy-package==1.2.3 <br/>
-Version                     python -V <br/>
-Update pip installer            pip install —update pip
-Update pip installer            python -m pip install —update pip
-Python location                 pip show xyz-package
-Test if python installed        python -m “import xyz-package”
+IDE                         - pycharm / vscode <br/>
+Install file                - pip install -r requirements.txt<br/>
+Install file                - python -m pip install -r requirements.txt<br/>
+Install                     - pip install xyz-package<br/>
+Install                     - python -m pip install xyz-package <br/>
+Install version             - pip install xyzzy-package==1.2.3 <br/>
+Version                     - python -V <br/>
+Update pip installer            - pip install —update pip <br/>
+Update pip installer            - python -m pip install —update pip <br/>
+Python location                 - pip show xyz-package <br/>
+Test if python installed        - python -m “import xyz-package” <br/>
 
 # Voice-to-Voice Chatbot using Whisper, LLaMA, and Groq API
 
