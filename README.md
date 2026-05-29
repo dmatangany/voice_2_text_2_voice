@@ -1,7 +1,15 @@
 #Davison Matanganyidze: Online Tutorial Project-01 Lab-01
-Originmnaly posted by Aquib Ali (https://github.com/aquibali01)
+Originaly posted by Aquib Ali (https://github.com/aquibali01)
 
-I have refactored it for my tutorial to illustrate the steps to build a voice assistant
+I have refactored the Aquib repo for my tutorial to illustrate the steps to build a voice assistant
+
+##Files
+Lab01.py                    main python file
+requirements.txt            contains python packages
+screenshots                 architecture screenshots
+
+![Project Logo](screenshots/1_architecture.png)
+<img src="screenshots/1_architecture.png" alt="Project Logo" width="500" height="131">
 
 ## PYTHON TIPS
 IDE                         pycharm / vscode <br/>
