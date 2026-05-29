@@ -1,9 +1,9 @@
-#Davison Matanganyidze: Online Tutorial Project-01 Lab-01
+# Davison Matanganyidze: Online Tutorial Project-01 Lab-01
 Originaly posted by Aquib Ali (https://github.com/aquibali01)
 
 I have refactored the Aquib repo for my tutorial to illustrate the steps to build a voice assistant
 
-##Files
+## Files
 Lab01.py                    main python file
 requirements.txt            contains python packages
 screenshots                 architecture screenshots
